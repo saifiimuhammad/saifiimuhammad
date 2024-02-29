@@ -9,35 +9,27 @@ Let me showcase my skills, one by one:
 
 <div class="skills">
   <div class="skill-item" style="animation-delay: 0.5s;">
-    <img src="react_logo.png" alt="React">
     <p>React</p>
   </div>
   <div class="skill-item" style="animation-delay: 1s;">
-    <img src="html_logo.png" alt="HTML">
     <p>HTML</p>
   </div>
   <div class="skill-item" style="animation-delay: 1s;">
-    <img src="html_logo.png" alt="HTML">
     <p>CSS</p>
   </div>
   <div class="skill-item" style="animation-delay: 1s;">
-    <img src="html_logo.png" alt="HTML">
     <p>JavaScript</p>
   </div>
   <div class="skill-item" style="animation-delay: 1s;">
-    <img src="html_logo.png" alt="HTML">
     <p>Nodejs</p>
   </div>
   <div class="skill-item" style="animation-delay: 1s;">
-    <img src="html_logo.png" alt="HTML">
     <p>Express.js</p>
   </div>
   <div class="skill-item" style="animation-delay: 1s;">
-    <img src="html_logo.png" alt="HTML">
     <p>MongoDB</p>
   </div>
   <div class="skill-item" style="animation-delay: 1s;">
-    <img src="html_logo.png" alt="HTML">
     <p>TypeScript</p>
   </div>
   
