@@ -7,7 +7,7 @@ I'm a software student at the University of Sindh with a passion for creating in
 ## 🛠️ Skills
 Let me showcase my skills, one by one:
 
-<div class="skills">
+<div class="skills" style="display: flex; justify-content: center; margin-top: 20px;">
   <div class="skill-item" style="animation-delay: 0.5s;">
     <p>React</p>
   </div>
