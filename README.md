@@ -36,31 +36,6 @@ Let me showcase my skills, one by one:
   <!-- Add other skills similarly -->
 </div>
 
-<style>
-  .skills {
-    display: flex;
-    justify-content: center;
-    margin-top: 20px;
-  }
-  
-  .skill-item {
-    text-align: center;
-    margin: 0 20px;
-    animation: slideIn 0.5s ease-in-out forwards;
-    opacity: 0;
-  }
-  
-  @keyframes slideIn {
-    from {
-      opacity: 0;
-      transform: translateY(-20px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-</style>
 
 ## 💻 GitHub Activity
 Check out my GitHub activity below to see my recent contributions and projects:
