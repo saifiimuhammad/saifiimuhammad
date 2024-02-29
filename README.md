@@ -44,6 +44,19 @@ Check out my GitHub activity below to see my recent contributions and projects:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saifiimuhammad&layout=compact&theme=dracula)
 
+## 📌 Pinned Repositories
+Check out my pinned repositories:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=saifiimuhammad&repo=repo1&theme=radical)](https://github.com/saifiimuhammad/inotebook-web-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=saifiimuhammad&repo=repo2&theme=radical)](https://github.com/saifiimuhammad/TimesOfNews)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=saifiimuhammad&repo=repo2&theme=radical)](https://github.com/saifiimuhammad/TicTacToe-Game)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=saifiimuhammad&repo=repo2&theme=radical)](https://github.com/saifiimuhammad/Random-Qoute-Generator-App)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=saifiimuhammad&repo=repo2&theme=radical)](https://github.com/saifiimuhammad/Ochi-Design-Modern-Animated-Wesbite)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=saifiimuhammad&repo=repo2&theme=radical)](https://github.com/saifiimuhammad/Todo-List-App---Typescript-version)
+
+
+<!-- Add more repository cards similarly -->
+
 <!-- Animations -->
 ![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
