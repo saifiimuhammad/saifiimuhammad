@@ -5,16 +5,70 @@
 I'm a software student at the University of Sindh with a passion for creating innovative and impactful software solutions. My journey into the world of programming began with a fascination for building interactive web applications. I am enthusiastic about learning and exploring new technologies to enhance my skills and contribute effectively to the field of software development.
 
 ## 🛠️ Skills
-- React
-- HTML
-- CSS
-- JavaScript
-- Redux
-- Node.js
-- MongoDB
-- Express.js
-- MERN Stack
-- TypeScript (Learning)
+Let me showcase my skills, one by one:
+
+<div class="skills">
+  <div class="skill-item" style="animation-delay: 0.5s;">
+    <img src="react_logo.png" alt="React">
+    <p>React</p>
+  </div>
+  <div class="skill-item" style="animation-delay: 1s;">
+    <img src="html_logo.png" alt="HTML">
+    <p>HTML</p>
+  </div>
+  <div class="skill-item" style="animation-delay: 1s;">
+    <img src="html_logo.png" alt="HTML">
+    <p>CSS</p>
+  </div>
+  <div class="skill-item" style="animation-delay: 1s;">
+    <img src="html_logo.png" alt="HTML">
+    <p>JavaScript</p>
+  </div>
+  <div class="skill-item" style="animation-delay: 1s;">
+    <img src="html_logo.png" alt="HTML">
+    <p>Nodejs</p>
+  </div>
+  <div class="skill-item" style="animation-delay: 1s;">
+    <img src="html_logo.png" alt="HTML">
+    <p>Express.js</p>
+  </div>
+  <div class="skill-item" style="animation-delay: 1s;">
+    <img src="html_logo.png" alt="HTML">
+    <p>MongoDB</p>
+  </div>
+  <div class="skill-item" style="animation-delay: 1s;">
+    <img src="html_logo.png" alt="HTML">
+    <p>TypeScript</p>
+  </div>
+  
+  <!-- Add other skills similarly -->
+</div>
+
+<style>
+  .skills {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .skill-item {
+    text-align: center;
+    margin: 0 20px;
+    animation: slideIn 0.5s ease-in-out forwards;
+    opacity: 0;
+  }
+  
+  @keyframes slideIn {
+    from {
+      opacity: 0;
+      transform: translateY(-20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+</style>
 
 ## 💻 GitHub Activity
 Check out my GitHub activity below to see my recent contributions and projects:
@@ -26,5 +80,4 @@ Check out my GitHub activity below to see my recent contributions and projects:
 <!-- Animations -->
 ![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
-![Space Invaders](https://media.giphy.com/media/l3vR7V2hZ4zqlYg9W/giphy.gif)
 
