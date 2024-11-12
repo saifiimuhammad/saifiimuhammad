@@ -7,8 +7,8 @@
 
 - My latest project [iNotebook Web App](https://github.com/saifiimuhammad/inotebook-web-app)
 
-- 🌱 I’m currently learning **TypeScript**
-
+- 🌱 I’m working on **Chat Application**
+  
 - 👯 I’m looking to work on **E-commerce Application - MERN**
 
 - 💬 Ask me about **Reactjs and JavaScript**
