@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Saif</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A Passionate MERN Stack Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifiimuhammad&label=Profile%20views&color=0e75b6&style=flat" alt="saifiimuhammad" /> </p>
 
@@ -11,7 +11,7 @@
   
 - 👯 I’m looking to work on **E-commerce Application - MERN**
 
-- 💬 Ask me about **Reactjs and JavaScript**
+- 💬 Ask me about **Reactjs, JavaScript and Data Structures**
 
 - 📫 How to reach me **muhammadsaifarain786@gmail.com**
 
