@@ -1,7 +1,22 @@
 # 💫 About Me:
-I've successfully completed a real-time chat application for my final year project (FYP) and am excited about its continuous improvement. Currently, I'm looking for guidance in advanced DSA and problem-solving techniques, along with their efficient implementations. Feel free to ask me anything about the MERN stack or DSA.
+👋 Hi, I’m Muhammad Saif — a 3rd-year Software Engineering student, self-taught MERN Stack Developer, and passionate about solving real-world problems with code.
 
-**Fun Fact**: I consider myself a fighter!
+**💻 I specialize in building:**
+
+- Full-stack web apps (React, Node, Express, MongoDB)
+- Real-time apps with Socket.io
+- AI-powered tools using OpenAI API
+- Task managers, chat systems, admin panels, and MVPs
+
+**🚀 Currently working on:**
+
+- A Zoom-like video conferencing platform
+- An AI-based reels automation tool
+ 
+📚 I’ve completed 2 courses from Stanford’s Algorithms Specialization and love digging deep into Data Structures & Algorithms.
+🎯 My goals: Become a high-impact developer, tech entrepreneur, and Islamic scholar — building for both Dunya & Deen.
+
+🔗 Let’s collaborate, build, or learn together.
 
 
 ## 🌐 Socials:
