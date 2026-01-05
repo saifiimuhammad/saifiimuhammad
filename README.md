@@ -9,7 +9,7 @@ I'm Saif, a developer who enjoys engineering web systems from scratch — with a
 - Dashboards, admin panels, chat apps, and MVPs
 
 **🚀 Currently working on:**
-- A video conferencing platform (Zoom clone with recording, auth, calendar sync)
+- Working on Karlobaat v2 updates.
 
 📚 Completed 2/4 courses from Stanford’s Algorithms Specialization.  
 🎯 Long-term goals: Become a high-impact software engineer, entrepreneur, and Islamic scholar — building for both Dunya & Deen.
