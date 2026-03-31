@@ -10,7 +10,7 @@
 ### 🚀 About Me
 I am a **Web Systems Developer** focused on building scalable, performance-driven web applications. My work centers around clean architecture, maintainable codebases, and production-ready systems with real-world impact.
 
-* 🔭 **Current Focus:** Scaling [Karlobaat (v2)](https://0xsaif.vercel.app) and launching a new SaaS product.
+* 🔭 **Current Focus:** Building [Cortex AI](https://0xsaif.vercel.app) and launching a new SaaS product.
 * 🎓 **Education:** BS Software Engineering (Graduating) | Stanford Algorithms Specialization.
 * ⚡ **Core Expertise:** Real-time systems (WebSockets), API Design, and AI-powered features.
 
